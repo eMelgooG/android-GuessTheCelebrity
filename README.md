@@ -3,3 +3,10 @@ The cool thing about this app is that it uses an external webpage to download th
 
 # Demo
 ![](https://i.imgur.com/LKpgY3A.gif)
+
+
+
+Tested on Google Pixel 2
+App version:
+minSdkVersion 15
+targetSdkVersion 29
