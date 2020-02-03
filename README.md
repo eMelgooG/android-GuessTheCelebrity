@@ -6,7 +6,7 @@ The cool thing about this app is that it uses an external webpage to download th
 
 
 
-Tested on Google Pixel 2
-App version:
-minSdkVersion 15
-targetSdkVersion 29
+Tested on Google Pixel 2  
+App version:  
+minSdkVersion 15  
+targetSdkVersion 29  
